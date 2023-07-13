@@ -1,0 +1,10 @@
+205.160.186.76 unknown - [7/Jul/2013:22:53:58 -0500] "GET /product/laptops HTTP 1.0" 200 50
+192.168.1.100 user1 - [8/Jul/2013:11:53:58 -0500] "GET /product/smartphones HTTP 1.1" 200 200
+192.168.1.200 user2 - [9/Jul/2013:12:53:58 -0500] "POST /checkout HTTP 1.1" 200 400
+203.0.113.10 unknown - [10/Jul/2013:14:53:58 -0500] "GET /cart HTTP 1.0" 200 150
+198.51.100.5 unknown - [11/Jul/2013:15:53:58 -0500] "GET /product/tablets HTTP 1.1" 200 250
+205.160.186.76 user3 - [12/Jul/2013:16:53:58 -0500] "GET /product/accessories HTTP 1.1" 200 500
+192.168.1.100 user4 - [13/Jul/2013:17:53:58 -0500] "GET /product/televisions HTTP 1.0" 200 100
+192.168.1.200 user5 - [14/Jul/2013:18:53:58 -0500] "GET /product/smartwatches HTTP 1.1" 200 300
+203.0.113.10 unknown - [15/Jul/2013:19:53:58 -0500] "GET /product/audio-devices HTTP 1.0" 200 150
+198.51.100.5 unknown - [16/Jul/2013:20:53:58 -0500] "GET /product/cameras HTTP 1.1" 200 250
